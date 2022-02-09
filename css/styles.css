@@ -1,0 +1,22 @@
+
+  hr
+  {
+    width: 97%;
+    border-style: none;
+    border-top-style: dashed;
+    border-color: #21325E;
+    border-width: 3px;
+    height:5px;
+  }
+h1
+{
+  color: #00B4D8;
+}
+h3
+{
+    color: #00B4D8;
+}
+body
+{
+  background-color: #CAF0F8;
+}
